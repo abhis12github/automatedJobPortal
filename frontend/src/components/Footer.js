@@ -79,9 +79,7 @@ const Footer = () => {
           </ul>
         </div>
       </footer>
-      <div className="copyright">
-        &copy; CopyRight 2024. All Rights Reserved By CodeWithZeeshu
-      </div>
+      
     </>
   );
 };
